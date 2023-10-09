@@ -1,7 +1,7 @@
-.task {
+.tasks {
   list-style: none;
-  padding: 0;
-  margin: 0;
+  padding: 0 15px 15px 15px;
+  margin: 0px;
   background-color: white;
 }
 
