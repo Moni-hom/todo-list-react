@@ -1,8 +1,15 @@
 # Task list
 
-Description
+Small project to create your own to-do list. You can add new tasks and mark which are done. You can also delete and hide completed tasks.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## How to use?
+
+It is easy! Just enter your task and click "Dodaj zadanie" button. You can mark the completed task by clicking on the green box and remove it by clicking on the red bin can. You can also mark all completed tasks with one button using the "Ukończ wszystkie" or
+hide completed tasks, which you can then unhide.
+
+## Link
+
+https://moni-hom.github.io/todo-list-react/
 
 ## Available Scripts
 
