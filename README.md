@@ -11,6 +11,8 @@ hide completed tasks, which you can then unhide.
 
 https://moni-hom.github.io/todo-list-react/
 
+![Alt text](image.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
